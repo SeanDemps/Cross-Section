@@ -1,4 +1,4 @@
-Built on Glitch.com: viewable at cross-section.glitch.me
+Built on [glitch.com](https://glitch.com/): viewable at [cross-section.glitch.me](cross-section.glitch.me)
 
 This was a sound art project I completed at University of Limerick with my classmate Mark O'Brien.
 
